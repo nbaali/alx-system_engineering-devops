@@ -1,0 +1,2 @@
+#!/bin/bashcp
+cp -u *.htm ..
